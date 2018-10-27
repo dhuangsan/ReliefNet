@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "94725487259",
+    "firebase_url": "https://reliefnetwork-efc43.firebaseio.com",
+    "project_id": "reliefnetwork-efc43",
+    "storage_bucket": "reliefnetwork-efc43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94725487259:android:a0fb902f9008a988",
+        "android_client_info": {
+          "package_name": "com.teamgobbu.reliefnet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94725487259-3sr4d8qk2bi43m1o22ooij27ik0jfth6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmJ9jjb7-66lmqhwF9F_9qOd6IeuPGgKI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

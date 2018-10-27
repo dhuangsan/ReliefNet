@@ -109,7 +109,7 @@ android {
   buildToolsVersion rootProject.ext.buildToolsVersion
 
   defaultConfig {
-    applicationId "com.invertase.rnfirebasestarter"
+    applicationId "com.teamgobbu.reliefnet"
     minSdkVersion rootProject.ext.minSdkVersion
     targetSdkVersion rootProject.ext.targetSdkVersion
     versionCode 1
@@ -154,6 +154,7 @@ android {
 }
 
 dependencies {
+    compile project(':react-native-firebase')
   implementation(project(':react-native-firebase')) {
     transitive = false
   }
